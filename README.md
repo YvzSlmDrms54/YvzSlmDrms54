@@ -8,6 +8,7 @@
 - ⚡ Fun fact: My favourite color is yellow!
 # Skills
 - Python Coding
+- Java Coding
 - Visual Basic Coding
 - Arduino Coding
 - Webpage Designing
