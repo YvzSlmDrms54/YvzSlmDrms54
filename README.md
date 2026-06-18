@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yavuz Selim
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JavaScript
 # About Me
 - Nationality 🇹🇷
 - 📫 How to reach me info@mybetasoft.com
