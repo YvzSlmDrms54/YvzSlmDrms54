@@ -40,11 +40,5 @@ A kid who loves coding and web designing.
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=YvzSlmDrms54&show_icons=true&theme=tokyonight&title_color=d29922&icon_color=d29922&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YvzSlmDrms54&bg_color=00000000&color=d29922&line=d29922&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/YvzSlmDrms54">YvzSlmDrms54</a></i></p>
