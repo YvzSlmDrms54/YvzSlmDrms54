@@ -12,7 +12,7 @@
 
 A kid who loves coding and web designing.
 
-🌱 &nbsp;I'm currently learning **C#**  
+🌱 &nbsp;I'm currently learning **C++**  
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **I have my own coding language called YawaScript!**
 
